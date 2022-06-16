@@ -13,15 +13,24 @@ body {
     align-items: center;
 }
 
-
 #container {
-    /* display: flex;
-    justify-content: center;
-    align-items: center;
-} */
+    width: 360px;
+}
 
 #btn {
-    margin: 5px;
-    border-radius: 5px;
-    
+    margin-bottom: 5px;
+    border-radius:4px;
+    font-size: 20px;
+    padding: 2px;
+}
+
+#inputText {
+    margin-bottom: 5px;
+    width: 100%;
+    border-radius: 4px;
+    font-size: 30px;
+}
+
+#text {
+    color: whitesmoke;
 }
